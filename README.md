@@ -12,7 +12,14 @@
 - 📫 How to reach me **hitarthbhatt23012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
+  <a href="https://linkedin.com/in/your_username" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://instagram.com/your_username" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
