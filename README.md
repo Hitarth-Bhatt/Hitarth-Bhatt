@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [github.com/Hitarth-Bhatt][https://github.com/Hitarth-Bhatt?tab=repositories](https://github.com/Hitarth-Bhatt?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/Hitarth-Bhatt](https://github.com/Hitarth-Bhatt?tab=repositories)
 
 - 💬 Ask me about **Android, web dev**
 
