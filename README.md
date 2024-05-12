@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://Hitarth-Bhatt.io](https://github.com/hitarth-Bhatt/))
 <h1 align="center">Hi 👋, I'm Hitarth Bhatt</h1>
 <h3 align="center">A passionate android and frontend developer from India</h3>
+Profile views:  [![HitCount](https://hits.dwyl.com/Hitarth-Bhatt/Hitarth-Bhatt.svg?style=flat-square)](http://hits.dwyl.com/Hitarth-Bhatt/Hitarth-Bhatt)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 - 🌱 I’m currently learning **Android Development**
