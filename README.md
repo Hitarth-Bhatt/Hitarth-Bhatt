@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Hitarth-Bhatt](https://github.com/Hitarth-Bhatt?tab=repositories)
 
-- 💬 Ask me about **Android, web dev**
+- 💬 Ask me about **Android, Web dev, Data analyst**
 
 - 📫 How to reach me **hitarthbhatt23012@gmail.com**
 
